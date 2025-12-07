@@ -1,2 +1,3 @@
 # DWH-Conditinal-split-transforms
-![image]
+![image](image.jpg)
+
