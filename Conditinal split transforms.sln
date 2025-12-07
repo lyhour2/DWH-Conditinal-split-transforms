@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Conditinal split transforms", "Conditinal split transforms.dtproj", "{65D2A758-021B-E6E9-A970-22E8EA88C18D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65D2A758-021B-E6E9-A970-22E8EA88C18D}.Development|Default.ActiveCfg = Development
+		{65D2A758-021B-E6E9-A970-22E8EA88C18D}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {197B1330-88E1-474A-80DB-E965BB9B1A2B}
+	EndGlobalSection
+EndGlobal
